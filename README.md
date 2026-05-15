@@ -8,25 +8,6 @@ Uma API robusta e escalável para autenticação e gerenciamento de usuários, c
 [![JWT](https://img.shields.io/badge/JWT-Authentication-orange.svg)](https://jwt.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Configuração](#configuração)
-- [Endpoints da API](#endpoints-da-api)
-- [Exemplos de Uso](#exemplos-de-uso)
-- [Documentação Swagger](#documentação-swagger)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Testes](#testes)
-- [Segurança](#segurança)
-- [Boas Práticas](#boas-práticas)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
-
 ## Sobre o Projeto
 
 Esta API foi desenvolvida para fornecer uma solução completa de autenticação e gerenciamento de usuários, pronta para ser integrada em aplicações web, mobile ou qualquer outro tipo de sistema que necessite de controle de acesso e gestão de usuários.
